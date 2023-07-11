@@ -1,2 +1,0 @@
-# GabbyChatDapp
-Created with CodeSandbox
